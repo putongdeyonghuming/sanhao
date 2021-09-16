@@ -1,0 +1,8 @@
+这里是另一个测试，
+echo "# sihao" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main   、这是什么意思啊
+git remote add origin git@github.com:putongdeyonghuming/sihao.git
+git push -u origin main
